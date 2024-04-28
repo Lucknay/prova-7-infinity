@@ -1,0 +1,92 @@
+body{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: bisque;
+}
+
+
+.cabecalho{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px 40px;
+    
+    
+}
+
+.navig{
+    display: flex;
+    
+}
+
+
+.listinha{
+    display: flex;
+    gap: 40px;
+    
+    
+}
+
+
+.itens_lista{
+    display: flex;
+    align-items: center;
+    
+}
+
+.secao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.image1{
+    width: 200px;
+    border-radius: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+    font-size: 0.9rem;
+    display: flex;
+    margin: 10px;
+    
+}
+.div_do_card1{
+
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    border-radius: 40px;
+    margin: 40px;
+    width: 400px;
+
+}
+
+
+
+    
+
+.card2{
+display: flex;
+margin: 40px;
+width: 400px;
+border-radius: 40px;
+background-color: black;
+color: white;
+align-items: center;
+flex-direction: column;
+
+
+}
+
+.botao{
+    padding: 20px 20px;
+    border-radius: 40px;
+}
